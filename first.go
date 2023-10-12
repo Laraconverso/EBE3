@@ -58,3 +58,5 @@ func main(){
 	fmt.Println(alumnos["Lara"])
 
 }
+
+//las funciones en mayusculas se pueden importar desde otro package si tienen minuscula no. 

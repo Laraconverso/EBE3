@@ -3,11 +3,11 @@
 // Es necesario realizar una aplicación que tenga estas variables y que imprima un mensaje de acuerdo a cada caso.
 // Pista: Tu código tiene que poder imprimir al menos tres mensajes diferentes.
 
-package main
+package ej2
 
 import "fmt"
 
-func main() {
+func ej2() {
     // Variables
     edad := 25
     empleado := true
