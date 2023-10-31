@@ -5,7 +5,7 @@ import (
 )
 
 
-func main(){
+func first(){
 
 	// imprimit hola mundo 
 	fmt.Println("Hola Mundo! :)")
