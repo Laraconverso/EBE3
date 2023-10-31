@@ -24,7 +24,7 @@ type Category struct {
 
 func main() {
 	// Open the CSV file for reading
-	file, err := os.Open("data.csv")
+	file, err := os.Open("data_mesa.csv")
 	if err != nil {
 		log.Fatal(err)
 	}
