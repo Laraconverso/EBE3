@@ -1,7 +1,12 @@
 package tickets
 
 type Ticket struct {
-	
+	ID string
+	Nombre string
+	Email string
+	PaisDestino string
+	HoraVuelo string
+	Precio float64
 }
 
 // ejemplo 1
