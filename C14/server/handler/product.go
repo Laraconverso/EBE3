@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Laraconverso/EBE3.git/internal/domain"
+	"github.com/Laraconverso/EBE3.git/C14/internal/domain"
 	"github.com/Laraconverso/EBE3.git/internal/product"
 	"github.com/Laraconverso/EBE3.git/pkg/web"
 	"github.com/gin-gonic/gin"
