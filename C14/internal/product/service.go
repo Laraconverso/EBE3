@@ -1,7 +1,7 @@
 package product
 
 import (
-	"github.com/Laraconverso/EBE3.git/internal/domain"
+	"github.com/Laraconverso/EBE3/tree/main/C14/internal/domain"
 )
 
 type Service interface {
